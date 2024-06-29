@@ -6,5 +6,6 @@ datasets.ipynb covers the creation of the datasets.
 NOMINATE.ipynb covers the creation of the NOMINATE plots.
 ca.ipynb covers the creation of the CA plots and the Bimodality and Correlation coefficients.
 wnominate.r covers the calculation of the NOMINATE values.
+incidentally.ipynb covers the creation of the three datasets needed for the incidentally package, however this code is not cleaned.
 
-Furthermore, the three final datasets including the topics and NOMINATE values are downloadable as well.
+Furthermore, the three final datasets are not included due to their size, however these could in theory be created using the code.
